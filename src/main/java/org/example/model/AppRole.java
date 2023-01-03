@@ -1,0 +1,8 @@
+package org.example.model;
+
+import org.example.App;
+
+public enum AppRole {
+    ROLE_APP_USER,
+    ROLE_APP_ADMIN
+}
